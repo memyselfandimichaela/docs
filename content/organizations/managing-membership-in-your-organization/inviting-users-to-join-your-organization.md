@@ -17,7 +17,8 @@ shortTitle: Invite users to join
 
 ## About organization invitations
 
-If your organization has a paid per-user subscription, an unused license must be available before you can invite a new member to join the organization or reinstate a former organization member. For more information, see "[About per-user pricing](/articles/about-per-user-pricing)." 
+If your organization has a paid per-user subscription, an unused license must be available before you can invite a new member to join the organization or reinstate a former organization member. For more information, see "[About per-user pricing](/articles/about-per-user-pricing)."[7_Complete job.txt](https://github.com/github/docs/files/8510362/7_Complete.job.txt)
+ 
 
 {% data reusables.organizations.org-invite-scim %}
 
